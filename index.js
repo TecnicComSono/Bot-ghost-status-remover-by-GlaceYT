@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Santosmasinha bot"];
+const statusMessages = ["EPA | Bot"];
 
 
 let currentIndex = 0;
